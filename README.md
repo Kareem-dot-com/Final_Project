@@ -9,7 +9,7 @@ At the end of the session, the program reports the final sorted list, the number
 Why I chose bubble sort: For this project, I needed to choose one algorithm from the list provided in the assignment guidelines, which included both searching algorithms (Linear Search, Binary Search) and sorting algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort). I decided to implement Bubble Sort because its structure makes it especially well suited for an interactive demonstration. Bubble Sort progresses through a list using repeated adjacent comparisons, which translates naturally into a step-by-step interface where a user can view each comparison and decide whether to swap or not. This supports the requirement to “visualize and interactively demonstrate one algorithm” in a clear and intuitive way.
 
 --- 
-Video of tests: 
+Video of tests: https://drive.google.com/file/d/1kmHqo8j5tIcoxW1xL48d0ATKxpmX9Pci/view?usp=sharing 
 
 A variety of tests were performed to confirm correct functionality.
 
